@@ -1,0 +1,4 @@
+{
+    "java.jdt.ls.java.home": "/usr/lib/jvm/java-17-amazon-corretto",
+    "java.configuration.updateBuildConfiguration": "interactive"
+}
